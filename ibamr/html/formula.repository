@@ -1,0 +1,110 @@
+\form#0:$ Q $
+\form#1:$ \kappa $
+\form#2:$ \lambda $
+\form#3:$ F $
+\form#4:\[ \frac{dQ}{dt} + (\vec{u}^{\mbox{\scriptsize ADV}} \cdot \nabla)Q = F, \]
+\form#5:$Q$
+\form#6:$\vec{u}^{\mbox{\scriptsize ADV}}$
+\form#7:$F$
+\form#8:\[ \frac{dQ}{dt} + \nabla \cdot (\vec{u}^{\mbox{\scriptsize ADV}} Q) = F. \]
+\form#9:$\vec{u}$
+\form#10:$ \vec{N}^{n+\frac{1}{2}} = \vec{u}^{\mbox{\scriptsize ADV},n+\frac{1}{2}} \cdot \nabla q^{n+\frac{1}{2}} $
+\form#11:$ \vec{f} $
+\form#12:$ q $
+\form#13:$ \vec{u}^{\mbox{\scriptsize ADV}} $
+\form#14:\begin{eqnarray*} f_{i+\frac{1}{2},j,k}^{n+\frac{1}{2}} &=& \Delta t \, *u_{i+\frac{1}{2},j,k}^{\mbox{\scriptsize ADV},n+\frac{1}{2}} \, *q_{i+\frac{1}{2},j,k}^{n+\frac{1}{2}} \\ f_{i,j+\frac{1}{2},k}^{n+\frac{1}{2}} &=& \Delta t \, *v_{i,j+\frac{1}{2},k}^{\mbox{\scriptsize ADV},n+\frac{1}{2}} \, *q_{i,j+\frac{1}{2},k}^{n+\frac{1}{2}} \\ f_{i,j,k+\frac{1}{2}}^{n+\frac{1}{2}} &=& \Delta t \, *w_{i,j,k+\frac{1}{2}}^{\mbox{\scriptsize ADV},n+\frac{1}{2}} \, *q_{i,j,k+\frac{1}{2}}^{n+\frac{1}{2}} \end{eqnarray*}
+\form#15:$ \vec{u}^{\mbox{\scriptsize ADV}} = (u^{\mbox{\scriptsize ADV}},v^{\mbox{\scriptsize ADV}},w^{\mbox{\scriptsize ADV}}) $
+\form#16:\[ \frac{dQ}{dt} + (\vec{u}^{\mbox{\scriptsize ADV}} \cdot \nabla)Q = 0, \]
+\form#17:$ \vec{V} $
+\form#18:\[ \frac{d\vec{V}}{dt} + (\vec{u}^{\mbox{\scriptsize ADV}} \cdot \nabla)\vec{V} = 0, \]
+\form#19:\[ \frac{d\vec{V}}{dt} + (\vec{u}^{\mbox{\scriptsize ADV}} \cdot \nabla)\vec{V} = *\vec{F}, \]
+\form#20:\[ \frac{dQ}{dt} + \nabla \cdot (\vec{u}^{\mbox{\scriptsize ADV}} Q) = F - Q \nabla \cdot *\vec{u}^{\mbox{\scriptsize ADV}}, \]
+\form#21:\[ \frac{dQ}{dt} + (\vec{u}^{\mbox{\scriptsize ADV}} \cdot \nabla) Q = F. \]
+\form#22:$ \vec{\lambda}$
+\form#23:$ \vec{U}$
+\form#24:\begin{eqnarray*} \beta J L^{-1} S \gamma \vec{\lambda} &=& M \vec{\lambda} = \vec{w} \\ T M T^* \vec{U} &=& \vec{F}. \end{eqnarray*}
+\form#25:$ J $
+\form#26:$ S $
+\form#27:$ L $
+\form#28:$ T $
+\form#29:$ \vec{w} $
+\form#30:$ \vec{F} $
+\form#31:$ \vec{v} $
+\form#32:$ p $
+\form#33:$ \vec{\lambda} $
+\form#34:$ \vec{U} $
+\form#35:\begin{eqnarray*} A \vec{v} + \nabla p - \gamma S \vec{\lambda} &=& \vec{g} \\ -\nabla \cdot \vec{v} &=& (h = 0) \\ -\beta J \vec{v} + \beta T^{*} \vec{U} -\beta \delta \vec{\lambda} &=& (\vec{w} = -\beta \vec{U}_{\mbox{\scriptsize def}}) \\ T \vec{\lambda} &=& \vec{F} \end{eqnarray*}
+\form#36:\begin{eqnarray*} A \vec{v} + \nabla p - \gamma S \vec{\lambda} &=& \vec{g} \\ -\nabla \cdot \vec{v} &=& (h = 0) \\ -\beta J \vec{v} - \beta \delta \vec{\lambda} &=& (w = -\beta (T^{*}\vec{U}+ \vec{U}_{\mbox{\scriptsize def}}) = -\beta \vec{U}_{\mbox{\scriptsize imposed}}) \end{eqnarray*}
+\form#37:$ A $
+\form#38:$ G $
+\form#39:$ T^{*} $
+\form#40:$ \vec{U}_{\mbox{\scriptsize def}} $
+\form#41:$ \vec{U}_{\mbox{\scriptsize imposed}} $
+\form#42:$ \gamma $
+\form#43:$ \beta $
+\form#44:$ \delta $
+\form#45:$Ax=b$
+\form#46:$x$
+\form#47:$y=Ax$
+\form#48:$[u,v,\omega_z]$
+\form#49:$[u,v,w,\omega_x,\omega_y,\omega_z]$
+\form#50:$ U_{sub} \leq NDIM * (NDIM + 1) / 2 $
+\form#51:$ U_{sub} = NDIM * (NDIM + 1) / 2 $
+\form#52:$ = \alpha * mobility_mat + \beta * identity_mat. $
+\form#53:$ \theta_n = \theta_{n-1} + \omega_{n-1} \triangle t $
+\form#54:$ \phi $
+\form#55:$y=F[x]$
+\form#56:$ [MM] = \alpha*[MM] + \beta*[I]. $
+\form#57:$ |\nabla Q | = 1 $
+\form#58:$ k $
+\form#59:$ l $
+\form#60:\[ \vec{F}_k = \kappa_{k,l} \left( \|\vec{X}_{l} - \vec{X}_{k}\| - r_{k,l} \right) *\frac{\vec{X}_{l} - \vec{X}_{k}}{\|\vec{X}_{l} - \vec{X}_{k}\|}, \]
+\form#61:\[ \vec{F}_l = \kappa_{k,l} \left( \|\vec{X}_{l} - \vec{X}_{k}\| - r_{k,l} \right) *\frac{\vec{X}_{k} - \vec{X}_{l}}{\|\vec{X}_{l} - \vec{X}_{k}\|} = - \vec{F}_k, \]
+\form#62:$ \kappa_{k,l} $
+\form#63:$ r_{k,l} $
+\form#64:$ T_{k,l} $
+\form#65:\[ T_{k,l} = \kappa_{k,l} \left( \|\vec{X}_{l} - \vec{X}_{k}\| - r_{k,l} \right). \]
+\form#66:\[ \vec{F}_k = T_{k,l} \frac{\vec{X}_{l} - \vec{X}_{k}}{\|\vec{X}_{l} - \vec{X}_{k}\|} \]
+\form#67:\[ \vec{F}_l = T_{k,l} \frac{\vec{X}_{k} - \vec{X}_{l}}{\|\vec{X}_{k} - \vec{X}_{l}\|}. \]
+\form#68:$ \eta $
+\form#69:$ b = (1-a) $
+\form#70:$a$
+\form#71:$b$
+\form#72:$ Nx = [T M^{-1} T^{*}]x = b $
+\form#73:$ x $
+\form#74:$ N $
+\form#75:$ M $
+\form#76:$ [T M^{-1} T^{*}]^{-1} $
+\form#77:$ Nx = b $
+\form#78:$ Mx = [J L^{-1} S]x = b $
+\form#79:$ Mx=b $
+\form#80:$ Mx = b $
+\form#81:$\frac{\partial Q}{\partial \tau}+sgn(Q^0)(|\nabla Q | - 1) = 0$
+\form#82:$ (i,j,k,d):-> p $
+\form#83:$ L = C I + \nabla \cdot D \nabla$
+\form#84:$ \mbox{$L u$} = \mbox{$(C I + \nabla \cdot D \nabla) u$} = f $
+\form#85:\[ (C I + \nabla \cdot D \nabla) u = f \]
+\form#86:$ C $
+\form#87:$ D $
+\form#88:$ f $
+\form#89:$ u $
+\form#90:$ -\nabla^2 u = f $
+\form#91:$ (C I + \nabla \cdot D \nabla ) u = f $
+\form#92:$C$
+\form#93:$D$
+\form#94:$u$
+\form#95:$f$
+\form#96:$ y=F[x] $
+\form#97:$ z=F[x]+y $
+\form#98:$z=F[x]+y$
+\form#99:$F[x]=b$
+\form#100:$ F'[x]v $
+\form#101:$ y=Ax $
+\form#102:$ z=Ax+y $
+\form#103:$ y=A^{T} x $
+\form#104:$ z=A^{T}x+y $
+\form#105:$ F[x]=b $
+\form#106:$F[x]$
+\form#107:$J[x] = F'[x]$
+\form#108:$ r_0 = r $
+\form#109:$ r_1 = r_0 + 1 $

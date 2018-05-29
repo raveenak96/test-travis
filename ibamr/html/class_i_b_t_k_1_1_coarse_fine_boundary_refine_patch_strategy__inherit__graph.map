@@ -1,0 +1,7 @@
+<map id="IBTK::CoarseFineBoundaryRefinePatchStrategy" name="IBTK::CoarseFineBoundaryRefinePatchStrategy">
+<area shape="rect" id="node4" href="$class_i_b_t_k_1_1_cart_cell_double_linear_c_f_interpolation.html" title="Class CartCellDoubleLinearCFInterpolation is a concrete SAMRAI::xfer::RefinePatchStrategy which sets ..." alt="" coords="783,5,967,46"/>
+<area shape="rect" id="node5" href="$class_i_b_t_k_1_1_cart_cell_double_quadratic_c_f_interpolation.html" title="Class CartCellDoubleQuadraticCFInterpolation is a concrete SAMRAI::xfer::RefinePatchStrategy which se..." alt="" coords="772,70,977,111"/>
+<area shape="rect" id="node6" href="$class_i_b_t_k_1_1_cart_side_double_quadratic_c_f_interpolation.html" title="Class CartSideDoubleQuadraticCFInterpolation is a concrete SAMRAI::xfer::RefinePatchStrategy which se..." alt="" coords="771,135,979,177"/>
+<area shape="rect" id="node2" href="/home/travis/build/raveenak96/IBAMR/doc/samrai.tag$classSAMRAI_1_1xfer_1_1RefinePatchStrategy.html" title="SAMRAI::xfer::RefinePatch\lStrategy\&lt; NDIM \&gt;" alt="" coords="301,70,485,111"/>
+<area shape="rect" id="node3" href="/home/travis/build/raveenak96/IBAMR/doc/samrai.tag$classSAMRAI_1_1xfer_1_1RefinePatchStrategy.html" title="SAMRAI::xfer::RefinePatch\lStrategy\&lt; DIM \&gt;" alt="" coords="5,70,189,111"/>
+</map>

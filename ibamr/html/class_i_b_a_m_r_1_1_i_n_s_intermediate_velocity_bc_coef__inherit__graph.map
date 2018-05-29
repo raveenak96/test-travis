@@ -1,0 +1,5 @@
+<map id="IBAMR::INSIntermediateVelocityBcCoef" name="IBAMR::INSIntermediateVelocityBcCoef">
+<area shape="rect" id="node2" href="$class_i_b_t_k_1_1_extended_robin_bc_coef_strategy.html" title="Class ExtendedRobinBcCoefStrategy is a subclass of the abstract base class SAMRAI::solv::RobinBcCoefS..." alt="" coords="15,206,208,247"/>
+<area shape="rect" id="node3" href="/home/travis/build/raveenak96/IBAMR/doc/samrai.tag$classSAMRAI_1_1solv_1_1RobinBcCoefStrategy.html" title="SAMRAI::solv::RobinBcCoef\lStrategy\&lt; NDIM \&gt;" alt="" coords="16,113,208,154"/>
+<area shape="rect" id="node4" href="/home/travis/build/raveenak96/IBAMR/doc/samrai.tag$classSAMRAI_1_1solv_1_1RobinBcCoefStrategy.html" title="SAMRAI::solv::RobinBcCoef\lStrategy\&lt; DIM \&gt;" alt="" coords="16,6,208,47"/>
+</map>

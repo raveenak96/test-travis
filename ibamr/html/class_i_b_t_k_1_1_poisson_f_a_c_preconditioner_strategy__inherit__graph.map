@@ -1,0 +1,7 @@
+<map id="IBTK::PoissonFACPreconditionerStrategy" name="IBTK::PoissonFACPreconditionerStrategy">
+<area shape="rect" id="node4" href="$class_i_b_t_k_1_1_c_c_poisson_box_relaxation_f_a_c_operator.html" title="Class CCPoissonBoxRelaxationFACOperator is a concrete PoissonFACPreconditionerStrategy for solving el..." alt="" coords="706,5,918,46"/>
+<area shape="rect" id="node5" href="$class_i_b_t_k_1_1_c_c_poisson_level_relaxation_f_a_c_operator.html" title="Class CCPoissonLevelRelaxationFACOperator is a concrete PoissonFACPreconditionerStrategy for solving ..." alt="" coords="702,70,922,111"/>
+<area shape="rect" id="node6" href="$class_i_b_t_k_1_1_c_c_poisson_point_relaxation_f_a_c_operator.html" title="Class CCPoissonPointRelaxationFACOperator is a concrete PoissonFACPreconditionerStrategy for solving ..." alt="" coords="703,135,921,177"/>
+<area shape="rect" id="node7" href="$class_i_b_t_k_1_1_s_c_poisson_point_relaxation_f_a_c_operator.html" title="Class SCPoissonPointRelaxationFACOperator is a concrete PoissonFACPreconditionerStrategy for solving ..." alt="" coords="703,201,921,242"/>
+<area shape="rect" id="node2" href="$class_i_b_t_k_1_1_f_a_c_preconditioner_strategy.html" title="Class FACPreconditionerStrategy provides an interface for specifying the problem&#45;specific operations ..." alt="" coords="168,111,387,137"/>
+</map>

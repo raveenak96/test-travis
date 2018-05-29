@@ -1,0 +1,12 @@
+<map id="IBAMR::IBImplicitStrategy" name="IBAMR::IBImplicitStrategy">
+<area shape="rect" id="node7" href="$class_i_b_a_m_r_1_1_i_b_method.html" title="Class IBMethod is an implementation of the abstract base class IBImplicitStrategy that provides funct..." alt="" coords="979,81,1109,108"/>
+<area shape="rect" id="node2" href="$class_i_b_a_m_r_1_1_i_b_strategy.html" title="Class IBStrategy provides a generic interface for specifying the implementation details of a particul..." alt="" coords="563,81,698,108"/>
+<area shape="rect" id="node3" href="/home/travis/build/raveenak96/IBAMR/doc/samrai.tag$classSAMRAI_1_1mesh_1_1StandardTagAndInitStrategy.html" title="SAMRAI::mesh::StandardTag\lAndInitStrategy\&lt; NDIM \&gt;" alt="" coords="315,47,511,89"/>
+<area shape="rect" id="node4" href="/home/travis/build/raveenak96/IBAMR/doc/samrai.tag$classSAMRAI_1_1mesh_1_1StandardTagAndInitStrategy.html" title="SAMRAI::mesh::StandardTag\lAndInitStrategy\&lt; DIM \&gt;" alt="" coords="6,47,202,89"/>
+<area shape="rect" id="node5" href="/home/travis/build/raveenak96/IBAMR/doc/samrai.tag$classSAMRAI_1_1tbox_1_1Serializable.html" title="SAMRAI::tbox::Serializable" alt="" coords="322,113,505,140"/>
+<area shape="rect" id="node6" href="/home/travis/build/raveenak96/IBAMR/doc/samrai.tag$classtbox_1_1DescribedClass.html" title="tbox::DescribedClass" alt="" coords="30,113,178,140"/>
+<area shape="rect" id="node8" href="$class_i_b_a_m_r_1_1_c_i_b_method.html" title="Class CIBFEMethod is a concrete CIBStrategy and IBMethod class which implements the motion of rigid b..." alt="" coords="1191,5,1329,32"/>
+<area shape="rect" id="node9" href="$class_i_b_a_m_r_1_1_constraint_i_b_method.html" title="Class ConstraintIBMethod implements the rigidity constraint for rigid and deforming bodies using the ..." alt="" coords="1165,56,1355,83"/>
+<area shape="rect" id="node10" href="$class_i_b_a_m_r_1_1_generalized_i_b_method.html" title="Class GeneralizedIBMethod is an extension of class IBMethod that provides functionality required by t..." alt="" coords="1161,107,1359,133"/>
+<area shape="rect" id="node11" href="$class_i_b_a_m_r_1_1_penalty_i_b_method.html" title="Class PenaltyIBMethod is an implementation of the abstract base class IBStrategy that provides functi..." alt="" coords="1173,157,1347,184"/>
+</map>

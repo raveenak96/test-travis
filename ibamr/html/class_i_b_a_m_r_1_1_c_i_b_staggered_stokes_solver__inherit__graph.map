@@ -1,0 +1,4 @@
+<map id="IBAMR::CIBStaggeredStokesSolver" name="IBAMR::CIBStaggeredStokesSolver">
+<area shape="rect" id="node2" href="$class_i_b_a_m_r_1_1_staggered_stokes_solver.html" title="Class StaggeredStokesSolver is an abstract base class for staggered&#45;grid Stokes solvers. " alt="" coords="4,155,213,181"/>
+<area shape="rect" id="node3" href="$class_i_b_t_k_1_1_general_solver.html" title="Class GeneralSolver provides an abstract interface for the implementation of linear or nonlinear solv..." alt="" coords="38,80,180,107"/>
+</map>

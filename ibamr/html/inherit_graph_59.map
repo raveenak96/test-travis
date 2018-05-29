@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="/home/travis/build/raveenak96/IBAMR/doc/samrai.tag$classSAMRAI_1_1xfer_1_1CoarsenOperator.html" title="SAMRAI::xfer::CoarsenOperator\l\&lt; NDIM \&gt;" alt="" coords="5,99,216,141"/>
+<area shape="rect" id="node2" href="$class_i_b_t_k_1_1_cart_cell_double_cubic_coarsen.html" title="Class CartCellDoubleCubicCoarsen is a concrete SAMRAI::xfer::CoarsenOperator for restricting cell&#45;cen..." alt="" coords="286,5,469,46"/>
+<area shape="rect" id="node3" href="$class_i_b_t_k_1_1_cart_side_double_cubic_coarsen.html" title="Class CartSideDoubleCubicCoarsen is a concrete SAMRAI::xfer::CoarsenOperator for restricting side&#45;cen..." alt="" coords="284,70,471,111"/>
+<area shape="rect" id="node4" href="$class_i_b_t_k_1_1_cart_side_double_r_t0_coarsen.html" title="Class CartSideDoubleRT0Coarsen is a concrete SAMRAI::xfer::CoarsenOperator for restricting side&#45;cente..." alt="" coords="264,136,491,163"/>
+<area shape="rect" id="node5" href="$class_i_b_t_k_1_1_l_marker_coarsen.html" title="Class LMarkerCoarsen is a concrete SAMRAI::xfer::CoarsenOperator for restricting IB marker data from ..." alt="" coords="299,187,455,213"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="IBTK::SCLaplaceOperator" name="IBTK::SCLaplaceOperator">
+<area shape="rect" id="node2" href="$class_i_b_t_k_1_1_laplace_operator.html" title="Class LaplaceOperator is an abstract base class for a Laplace&#45;type operators. " alt="" coords="15,229,168,256"/>
+<area shape="rect" id="node3" href="$class_i_b_t_k_1_1_linear_operator.html" title="Class LinearOperator provides an abstract interface for the specification of linear operators to comp..." alt="" coords="19,155,164,181"/>
+<area shape="rect" id="node4" href="$class_i_b_t_k_1_1_general_operator.html" title="Class GeneralOperator provides an abstract interface for the specification of general operators to co..." alt="" coords="15,80,168,107"/>
+</map>

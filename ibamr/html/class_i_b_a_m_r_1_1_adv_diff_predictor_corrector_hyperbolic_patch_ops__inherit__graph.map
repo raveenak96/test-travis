@@ -1,0 +1,9 @@
+<map id="IBAMR::AdvDiffPredictorCorrectorHyperbolicPatchOps" name="IBAMR::AdvDiffPredictorCorrectorHyperbolicPatchOps">
+<area shape="rect" id="node2" href="$class_i_b_a_m_r_1_1_advector_predictor_corrector_hyperbolic_patch_ops.html" title="Class AdvectorPredictorCorrectorHyperbolicPatchOps is a concrete SAMRAI::algs::HyperbolicPatchStrateg..." alt="" coords="774,91,970,133"/>
+<area shape="rect" id="node3" href="/home/travis/build/raveenak96/IBAMR/doc/samrai.tag$classSAMRAI_1_1algs_1_1HyperbolicPatchStrategy.html" title="SAMRAI::algs::Hyperbolic\lPatchStrategy\&lt; NDIM \&gt;" alt="" coords="543,61,719,102"/>
+<area shape="rect" id="node4" href="/home/travis/build/raveenak96/IBAMR/doc/samrai.tag$classSAMRAI_1_1xfer_1_1RefinePatchStrategy.html" title="SAMRAI::xfer::RefinePatch\lStrategy\&lt; DIM \&gt;" alt="" coords="11,5,195,46"/>
+<area shape="rect" id="node6" href="/home/travis/build/raveenak96/IBAMR/doc/samrai.tag$classSAMRAI_1_1algs_1_1HyperbolicPatchStrategy.html" title="SAMRAI::algs::Hyperbolic\lPatchStrategy\&lt; DIM \&gt;" alt="" coords="251,42,427,83"/>
+<area shape="rect" id="node5" href="/home/travis/build/raveenak96/IBAMR/doc/samrai.tag$classSAMRAI_1_1xfer_1_1CoarsenPatchStrategy.html" title="SAMRAI::xfer::CoarsenPatch\lStrategy\&lt; DIM \&gt;" alt="" coords="5,77,200,118"/>
+<area shape="rect" id="node7" href="/home/travis/build/raveenak96/IBAMR/doc/samrai.tag$classSAMRAI_1_1tbox_1_1Serializable.html" title="SAMRAI::tbox::Serializable" alt="" coords="539,137,722,164"/>
+<area shape="rect" id="node8" href="/home/travis/build/raveenak96/IBAMR/doc/samrai.tag$classtbox_1_1DescribedClass.html" title="tbox::DescribedClass" alt="" coords="265,159,413,185"/>
+</map>

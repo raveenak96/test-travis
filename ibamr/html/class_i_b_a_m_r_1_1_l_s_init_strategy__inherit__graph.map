@@ -1,0 +1,6 @@
+<map id="IBAMR::LSInitStrategy" name="IBAMR::LSInitStrategy">
+<area shape="rect" id="node4" href="$class_i_b_a_m_r_1_1_fast_sweeping_l_s_method.html" title="Class FastSweepingLSMethod provides a fast&#45;sweeping algorithm implementation of the level set method..." alt="" coords="5,229,219,256"/>
+<area shape="rect" id="node5" href="$class_i_b_a_m_r_1_1_relaxation_l_s_method.html" title="Class RelaxationLSMethod provides a relaxation algorithm implementation of the level set method..." alt="" coords="244,229,439,256"/>
+<area shape="rect" id="node2" href="/home/travis/build/raveenak96/IBAMR/doc/samrai.tag$classSAMRAI_1_1tbox_1_1Serializable.html" title="SAMRAI::tbox::Serializable" alt="" coords="135,80,317,107"/>
+<area shape="rect" id="node3" href="/home/travis/build/raveenak96/IBAMR/doc/samrai.tag$classtbox_1_1DescribedClass.html" title="tbox::DescribedClass" alt="" coords="153,5,300,32"/>
+</map>

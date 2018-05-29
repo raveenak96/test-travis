@@ -1,0 +1,9 @@
+<map id="IBAMR::IBHierarchyIntegrator" name="IBAMR::IBHierarchyIntegrator">
+<area shape="rect" id="node7" href="$class_i_b_a_m_r_1_1_i_b_explicit_hierarchy_integrator.html" title="Class IBExplicitHierarchyIntegrator is an implementation of a formally second&#45;order accurate..." alt="" coords="1033,5,1218,46"/>
+<area shape="rect" id="node8" href="$class_i_b_a_m_r_1_1_i_b_implicit_staggered_hierarchy_integrator.html" title="Class IBImplicitStaggeredHierarchyIntegrator is an implementation of a formally second&#45;order accurate..." alt="" coords="1032,70,1219,111"/>
+<area shape="rect" id="node2" href="$class_i_b_t_k_1_1_hierarchy_integrator.html" title="Class HierarchyIntegrator provides an abstract interface for a time integrator for a system of equati..." alt="" coords="563,45,733,72"/>
+<area shape="rect" id="node3" href="/home/travis/build/raveenak96/IBAMR/doc/samrai.tag$classSAMRAI_1_1mesh_1_1StandardTagAndInitStrategy.html" title="SAMRAI::mesh::StandardTag\lAndInitStrategy\&lt; NDIM \&gt;" alt="" coords="315,11,511,53"/>
+<area shape="rect" id="node4" href="/home/travis/build/raveenak96/IBAMR/doc/samrai.tag$classSAMRAI_1_1mesh_1_1StandardTagAndInitStrategy.html" title="SAMRAI::mesh::StandardTag\lAndInitStrategy\&lt; DIM \&gt;" alt="" coords="6,11,202,53"/>
+<area shape="rect" id="node5" href="/home/travis/build/raveenak96/IBAMR/doc/samrai.tag$classSAMRAI_1_1tbox_1_1Serializable.html" title="SAMRAI::tbox::Serializable" alt="" coords="322,77,505,104"/>
+<area shape="rect" id="node6" href="/home/travis/build/raveenak96/IBAMR/doc/samrai.tag$classtbox_1_1DescribedClass.html" title="tbox::DescribedClass" alt="" coords="30,77,178,104"/>
+</map>
