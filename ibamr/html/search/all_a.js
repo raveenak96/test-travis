@@ -15,7 +15,7 @@ var searchData=
   ['jobrelauncher_2ec',['JobRelauncher.C',['../../../samrai/2.4.4/html/JobRelauncher_8C.html',1,'']]],
   ['jobrelauncher_2eh',['JobRelauncher.h',['../../../samrai/2.4.4/html/JobRelauncher_8h.html',1,'']]],
   ['jobstate',['JobState',['../../../samrai/2.4.4/html/classSAMRAI_1_1tbox_1_1RelaunchableJob.html#6ce670ebbc08220a5eada460d10cd78c',1,'SAMRAI::tbox::RelaunchableJob']]],
-  ['join_5ferror',['join_error',['https://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/libstdc++.tag/a10056.html',1,'__gnu_pbds']]],
+  ['join_5ferror',['join_error',['https://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a10056.html',1,'__gnu_pbds']]],
   ['jup_5fidown',['JUP_IDOWN',['../../../samrai/2.4.4/html/classSAMRAI_1_1hier_1_1MultiblockPatchHierarchy.html#c676b6e0a14772a2e04b396131353d8d401f69e17fb9f20732610d7e75d7b8b6',1,'SAMRAI::hier::MultiblockPatchHierarchy']]],
   ['jup_5fidown_5fkup',['JUP_IDOWN_KUP',['../../../samrai/2.4.4/html/classSAMRAI_1_1hier_1_1MultiblockPatchHierarchy.html#c676b6e0a14772a2e04b396131353d8de4a4e6729dec01ba1c6ad8ba0085a149',1,'SAMRAI::hier::MultiblockPatchHierarchy']]],
   ['jup_5fiup_5fkdown',['JUP_IUP_KDOWN',['../../../samrai/2.4.4/html/classSAMRAI_1_1hier_1_1MultiblockPatchHierarchy.html#c676b6e0a14772a2e04b396131353d8d0fd9096e0df1654651f5854c5c246d80',1,'SAMRAI::hier::MultiblockPatchHierarchy']]],

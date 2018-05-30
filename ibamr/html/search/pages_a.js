@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['mathematical_20special_20functions',['Mathematical Special Functions',['https://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/libstdc++.tag/index.html',1,'']]],
+  ['mathematical_20special_20functions',['Mathematical Special Functions',['https://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/index.html',1,'']]],
   ['multiblock_20patch_20geometry',['Multiblock Patch Geometry',['../../../samrai/2.4.4/html/package_geometry_multiblock_patch_geom.html',1,'']]],
   ['multiblock_20amr_20patch_20hierarchy_20management',['Multiblock AMR Patch Hierarchy Management',['../../../samrai/2.4.4/html/package_hierarchy_multiblock.html',1,'']]],
   ['mathematical_20operations_20package',['Mathematical Operations Package',['../../../samrai/2.4.4/html/package_mathematical_operations.html',1,'']]],
